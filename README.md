@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data labeling and blockchain<br>👯 I’m looking to collaborate on machine learning<br>🤝 I’m looking for help with developing an app with flutter<br>🌱 I’m currently learning solidity<br>💬 Ask me about ICP<br>⚡ Fun fact - I am curious
+🔭 I’m currently working on Data labeling and blockchain<br>👯 I’m looking to collaborate on new tech<br>🤝 I’m looking for help with developing an app with flutter<br>🌱 I’m currently learning solidity<br>💬 Ask me about ICP<br>⚡ Fun fact - I am curious
 
 
 ## 🌐 Socials:
